@@ -8,6 +8,6 @@ Modelling and simulating a dc motor and a PID controller in MATLAB/Simulink, the
 ![DC electrical](https://user-images.githubusercontent.com/79062550/168470215-a24dcd0a-0467-4f2e-8030-406120393487.PNG)
 # DC Mechanical subsystem:
 ![mechanical](https://user-images.githubusercontent.com/79062550/168470223-ac947cb0-1496-4300-bfbd-52fd34b9ce4f.PNG)
-# PID Continues domain:
+# PID continuous domain:
 ![PID continous domain](https://user-images.githubusercontent.com/79062550/168471134-f36f1957-5ed0-43ab-9edc-1ded670fd833.PNG)
 
